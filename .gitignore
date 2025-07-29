@@ -1,3 +1,6 @@
 venv
+.env
 .venv
 .idea
+run.log
+__pycache__
